@@ -50,38 +50,4 @@ Project is: _in progress_, _finished_, _no longer continue_ and why?
 Add here credits. Project inspired by..., based on...
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
-
-
-
-
-
-
-
-
-
-
-
-Algorithm behind Gobang!
-When a chess piece is placed (the corresponding chessboard should have a coordinate), it should be judged whether the horizontal, horizontal, vertical or diagonal (left and right diagonal) of the chess piece meets the number of consecutive chess pieces. 
-If the number is greater than or equal to 5, you should make a judgment every time you play a chess piece, and you should perform the traversal algorithm in 4 major directions (horizontal, vertical, diagonal left, diagonal right) each time.
-In the picture, there are 3 consecutive black chesses, plus one on the right (the middle one has not been played yet, use S for the convenience of presentation). Obviously, if the black chess is played now, S is the best position. For computers, how should we use algorithms to make the computer understand that it can win if placed in the s position.
-After placing the S position, a counting flag count should be set to determine whether the number of chess pieces in a certain direction is greater than 5, that is, whether count>=5 holds. In the four major directions in the figure, count should be set to 1 before each direction is traversed;
-
-Table of Contents
-
-1. Database Diagram
-
-3. Entity Relationship Diagram
-<img src=https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20ERD.JPG>
-
-5. Requirements Traceability Matrix
-
-7. UML
-
-9. Wireframe sketch
-<img src=https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20Wire-frame%20Sketches-DRAFT%20.jpg>
-
-9. Task list 
-
+Created by [@yanxu2021](https://www.linkedin.com/in/yanxu2021/) - feel free to contact me!
