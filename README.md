@@ -20,14 +20,14 @@ Table of Contents
 1. Database Diagram
 
 3. Entity Relationship Diagram
-https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20ERD.JPG
+<img src=https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20ERD.JPG>
 
 5. Requirements Traceability Matrix
 
 7. UML
 
 9. Wireframe sketch
-https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20Wire-frame%20Sketches-DRAFT%20.jpg
+<img src=https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20Wire-frame%20Sketches-DRAFT%20.jpg>
 
 9. Task list 
 
