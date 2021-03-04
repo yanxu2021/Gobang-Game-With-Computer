@@ -47,7 +47,7 @@ Project is: _in progress
 
 ## Inspiration
 Project inspired by https://trefoilkingdom.com/game/gobang, 
-![Example screenshot](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/765.JPG)
+![Example screenshot](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Game%20Inspired.JPG)
 
 ## Contact
 Created by [@yanxu2021](https://www.linkedin.com/in/yanxu2021/) - feel free to contact me!
