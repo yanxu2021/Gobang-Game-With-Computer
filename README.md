@@ -18,7 +18,7 @@
 Based on the C # Gobang Development and Design!
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/GobangGame%EF%BC%88English%EF%BC%89.JPG)
 
 ## Technologies
 * Tech 1 - version 1.0
