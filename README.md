@@ -47,7 +47,7 @@ Project is: _in progress_, _finished_, _no longer continue_ and why?
 
 ## Inspiration
 Project inspired by https://trefoilkingdom.com/game/gobang, 
-![Example screenshot]()
+![Example screenshot](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/765.JPG)
 
 ## Contact
 Created by [@yanxu2021](https://www.linkedin.com/in/yanxu2021/) - feel free to contact me!
