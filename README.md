@@ -9,7 +9,8 @@
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Requirements](#Requirements)
-* [Wireframe Sketches](#Wireframe Sketches)
+* [Wireframe Sketches](#Wireframe-Sketches)
+* [Entity Relationship Diagram](#Entity-Relationship-Diagram)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -27,10 +28,15 @@ Based on the C # Gobang Development and Design!
 
 ## Requirements
 [Requirements Specification](requirements_spec.md)
+Top level requirement: User requirements
+Second level:(usually)System level requirements
+Third level: Software level requirements
 
 ## Wireframe Sketches
 ![first](http://)
 ![Second](http://)
+
+## Entity Relationship Diagram
 
 ## Features
 List of features ready and TODOs for future development
