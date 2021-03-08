@@ -29,7 +29,7 @@ Based on the C # Gobang Development and Design!
 ## Requirements
 [Requirements Specification](requirements_spec.md)
 * Use-Case Diagram (UML)
-<br>![UML](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20UML.jpg)</br>
+<br>![UML](https://)</br>
 * Level 1 Play Gobang game with computer
 * Level 2 Record the result and get rank.
 * Level 3 Game share function via social media. 
