@@ -31,7 +31,7 @@ Based on the C # Gobang Development and Design!
 Top level requirement: User requirements
 Second level:(usually)System level requirements
 Third level: Software level requirements
-![UML](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/UML.png)
+![Use-Case Diagram (UML)](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/UML.png)
 
 ## Wireframe Sketches
 ![first](http://)
