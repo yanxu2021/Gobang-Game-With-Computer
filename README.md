@@ -28,11 +28,32 @@ Based on the C # Gobang Development and Design!
 
 ## Requirements
 [Requirements Specification](requirements_spec.md)
-Top level requirement: User requirements
-Second level:(usually)System level requirements
-Third level: Software level requirements
-
-Use-Case Diagram (UML)![UML](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20UML.png)
+* Use-Case Diagram (UML)
+![UML](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20UML.png)
+* Level 1 Play Gobang game with computer
+* Level 2 Record the result and get rank.
+* Level 3 Game share function via social media. 
+* Specific requirements as below:
+	* 0100 Users shall be able to connect via IP address. Level 1
+	* 0110 Users shall be able to start a game once two users are connected. Level 1
+	* 0120 Users shall be given the choice of who plays black and white. Level 1
+	* 0130 Each user is to have their pieces start at the bottom of the board on their display. Level 1
+	* 0140 The player playing white is first to move. Level 1
+	* 0150 A player may forfeit at any time during gameplay. Level 1
+	* 0160 A player must be given a confirm dialog before forfeiting. Level 2
+	* 0170 Forfeiting shall end the game immediately. Level 1
+	* 0180 The active player shall select a piece by clicking it. Level 1
+	* 0190 When a piece is selected, all legal moves for that piece are highlighted. Level 1
+	* 0200 When a piece is selected, the active player may select another piece by clicking it. Level 1
+	* 0210 A selected piece must always belong to the active player. Level 1
+	* 0220 The active player shall move the selected piece by clicking on any legal square. Level 1
+	* 0230 The active player shall capture a piece by moving onto a legal square containing an opposing piece. Level 1
+	* 0240 Captured pieces shall be displayed in a captured pieces box. Level 2
+	* 0250 The inactive player may request to undo the prior move. Level 2
+	* 0260 There shall be no more than one undo request per turn. Level 2
+	* 0270 An undo request shall be ratified by the active player. Level 1
+	* 0280 When an undo request is accepted the game is reverted to the state of the board prior to the request. 	Level 1
+	* 0290 A player shall be able to save a log of the moves at any time. Level 2
 
 ## Wireframe Sketches
 https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20Wire-frame%20Sketches-DRAFT%20.jpg
