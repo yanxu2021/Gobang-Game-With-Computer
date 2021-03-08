@@ -35,8 +35,7 @@ Third level: Software level requirements
 Use-Case Diagram (UML)![UML](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20UML.png)
 
 ## Wireframe Sketches
-![first](http://)
-![Second](http://)
+https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20Wire-frame%20Sketches-DRAFT%20.jpg
 
 ## Entity Relationship Diagram
 ![ERD](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20ERD.JPG)
