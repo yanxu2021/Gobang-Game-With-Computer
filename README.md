@@ -29,9 +29,9 @@ Based on the C # Gobang Development and Design!
 ## Requirements
 [Requirements Specification](requirements_spec.md)
 Top level requirement: User requirements
-![UML](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/UML.png)
 Second level:(usually)System level requirements
 Third level: Software level requirements
+![UML](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/UML.png)
 
 ## Wireframe Sketches
 ![first](http://)
@@ -52,6 +52,12 @@ To-do list:
 
 ## Status
 Project is: _in progress
+
+## Testing
+Requirements Traceability/Criteria
+This is a list of the tests that have been done, theri status, and how/when they were last done. For more in depth breakdown of the current/previous builds, a test list can be found at:
+
+TestNo. Status BuildVersion TimeStamp Requirement Test Description TestMethod
 
 ## Inspiration
 Project inspired by https://trefoilkingdom.com/game/gobang, 
