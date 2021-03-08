@@ -29,6 +29,7 @@ Based on the C # Gobang Development and Design!
 ## Requirements
 [Requirements Specification](requirements_spec.md)
 Top level requirement: User requirements
+![UML](http://)
 Second level:(usually)System level requirements
 Third level: Software level requirements
 
@@ -37,6 +38,7 @@ Third level: Software level requirements
 ![Second](http://)
 
 ## Entity Relationship Diagram
+![ERD](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20ERD.JPG)
 
 ## Features
 List of features ready and TODOs for future development
