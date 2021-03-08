@@ -8,8 +8,8 @@
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
+* [Requirements](#Requirements)
+* [Wireframe Sketches](#Wireframe Sketches)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -25,12 +25,12 @@ Based on the C # Gobang Development and Design!
 * Tech 2 - version 2.0
 * Tech 3 - version 3.0
 
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
+## Requirements
+[Requirements Specification](requirements_spec.md)
 
-## Code Examples
-Show examples of usage:
-`Example here`
+## Wireframe Sketches
+![first](http://)
+![Second](http://)
 
 ## Features
 List of features ready and TODOs for future development
