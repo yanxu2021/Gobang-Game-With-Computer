@@ -56,6 +56,20 @@ Based on the C # Gobang Development and Design!
 	* 0280 When an undo request is accepted the game is reverted to the state of the board prior to the request. 	Level 1
 	* 0290 A player shall be able to save a log of the moves at any time. Level 2
 
+[Requirements Specification](https://github.com/uid100/RateCalculator/blob/main/Requirements_Spec.md)
+
+
+|ReqID|Requirement|test method|TestID|
+|---|---|--|---|
+|1. |the system shall ...|inspection| |
+|2. |the system shall ...|test|1|
+|3. |the system shall ...|test|1|
+|3.1|the system shall ...|analysis| |
+|3.2|the system shall ...|inspection| |
+|4. |the system shall ...|test|3|
+|5. |the system shall ...|test|2|
+|6. |the system shall ...|test| |
+
 ## Wireframe Sketches
 https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20Wire-frame%20Sketches-DRAFT%20.jpg
 
@@ -78,8 +92,12 @@ Project is: _in progress
 ## Testing
 Requirements Traceability/Criteria
 This is a list of the tests that have been done, theri status, and how/when they were last done. For more in depth breakdown of the current/previous builds, a test list can be found at:
-
-TestNo. Status BuildVersion TimeStamp Requirement Test Description TestMethod
+|testID|Req|Test proc|current|time|
+|---|---|---|---|---|
+|1|2,3.0|From the console, enter..., result should be 42...|not tested| |
+|2|5|Auth.user selects open from menu item and is presented file dialog|not tested| |
+|3|4|user enters incorrect password and "forgot password" link appears on page"|passed|26Feb2021|
+|4|6|(unit-tested)enter 42 as input to the calculate dialog, result should be 7|passed|3Mar2021|  
 
 ## Inspiration
 Project inspired by https://trefoilkingdom.com/game/gobang, 
