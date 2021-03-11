@@ -1,4 +1,5 @@
 # Gobang-Game-With-Computer（MSSA Project）
+>>ASP.NET web application for Gobang online game.
 >>Gobang is a two-player abstract strategy game generally played with Go pieces(either in black or white color) on a 15*15 Go board. Also know by the name Five in a Row.
 >It is a traditional oriental game, originally from China. 
 >Black plays first, and players alternate in placing the Go piece of their color on an empty intersection. 
