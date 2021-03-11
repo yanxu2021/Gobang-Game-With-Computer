@@ -12,6 +12,7 @@
 * [Wireframe Sketches](#Wireframe-Sketches)
 * [Entity Relationship Diagram](#Entity-Relationship-Diagram)
 * [Status](#status)
+* [Testing](#Testing)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
