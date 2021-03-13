@@ -56,8 +56,8 @@
 Project is: _in progress
 
 ## Testing
-Requirements Traceability/Criteria
-This is a list of the tests that have been done, theri status, and how/when they were last done. For more in depth breakdown of the current/previous builds, a test list can be found at:
+This is a list of the tests that have been done, their status, and how/when they were last done. For more in depth breakdown of the current/previous builds, a test list can be found at:
+[Testing](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Testing.md)
 
 |TestID|Req|TestProtocol|Status|TimeStamp|
 |---|---|---|---|---|
