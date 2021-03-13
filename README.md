@@ -6,7 +6,6 @@
 >The winner is the first player to get an unbroken row of five Go pieces horizontally, vertically, or diagonally.
 
 ## Table of contents
-* [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Requirements](#Requirements)
@@ -14,12 +13,8 @@
 * [Entity Relationship Diagram](#Entity-Relationship-Diagram)
 * [Status](#status)
 * [Testing](#Testing)
-* [Prototype](#Prototype)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
-
-## General info
-Based on the C # Gobang Development and Design!
 
 ## Screenshots
 ![Example screenshot](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/GobangGame%EF%BC%88English%EF%BC%89.JPG)
@@ -73,7 +68,7 @@ Based on the C # Gobang Development and Design!
 |6. |the system shall ...|test| |
 
 ## Wireframe Sketches
-https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20Wire-frame%20Sketches-DRAFT%20.jpg
+![Wireframe Sketches](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20Wire%20Frame%20Sketches%20.jpg)
 
 ## Entity Relationship Diagram
 ![ERD](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20ERD.JPG)
@@ -100,8 +95,6 @@ This is a list of the tests that have been done, theri status, and how/when they
 |2|5|Auth.user selects open from menu item and is presented file dialog|not tested| |
 |3|4|user enters incorrect password and "forgot password" link appears on page"|passed|26Feb2021|
 |4|6|(unit-tested)enter 42 as input to the calculate dialog, result should be 7|passed|3Mar2021|  
-
-## Prototype
 
 ## Inspiration
 Project inspired by https://trefoilkingdom.com/game/gobang, 
