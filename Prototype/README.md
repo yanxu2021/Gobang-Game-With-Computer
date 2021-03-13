@@ -1,9 +1,10 @@
 # Gobang Game With Computer
 
 
-## Project Prototype
-
+## Prototype "Gobang Game With Computer" view page
+<p> This is currently my Gobang Game With Computer looks like. The user only need open a single webpage to play this game. </p> 
+  <p> This online game is currently a work in porgess as I will need to use .NET to implement full funtion.</p>
+  
 ![screenshot images](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Prototype/GobangGame%20Prototype.jpg)
 
 ![Link to HTML](https://github.com)
-
