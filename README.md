@@ -14,6 +14,7 @@
 * [Entity Relationship Diagram](#Entity-Relationship-Diagram)
 * [Status](#status)
 * [Testing](#Testing)
+* [Prototype](#Prototype)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
@@ -99,6 +100,8 @@ This is a list of the tests that have been done, theri status, and how/when they
 |2|5|Auth.user selects open from menu item and is presented file dialog|not tested| |
 |3|4|user enters incorrect password and "forgot password" link appears on page"|passed|26Feb2021|
 |4|6|(unit-tested)enter 42 as input to the calculate dialog, result should be 7|passed|3Mar2021|  
+
+## Prototype
 
 ## Inspiration
 Project inspired by https://trefoilkingdom.com/game/gobang, 
