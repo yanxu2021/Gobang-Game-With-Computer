@@ -4,7 +4,7 @@
 ## Level 2 Record the result and get rank.
 ## Level 3 Game share function via social media. 
 
-|ReqID|Requirement|test method|TestID|
+|ReqID|Requirement|TestMethod|TestID|
 |---|---|--|---|
 |0100| Users shall be able to connect via IP address. |inspection|1.0|
 |0110 |Users shall be able to start a game once the user is ready. |test|1.1|
