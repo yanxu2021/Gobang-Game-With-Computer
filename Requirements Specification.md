@@ -1,8 +1,8 @@
-#Requirements Specification
+# Requirements Specification
 
-##Level 1 Play Gobang game with computer
-##Level 2 Record the result and get rank.
-##Level 3 Game share function via social media. 
+## Level 1 Play Gobang game with computer
+## Level 2 Record the result and get rank.
+## Level 3 Game share function via social media. 
 
 |ReqID|Requirement|test method|TestID|
 |---|---|--|---|
