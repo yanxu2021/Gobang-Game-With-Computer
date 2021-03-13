@@ -6,14 +6,17 @@
 >The winner is the first player to get an unbroken row of five Go pieces horizontally, vertically, or diagonally.
 
 ## Table of contents
+* [Status](#status)
 * [Screenshots](#screenshots)
 * [Requirements](#Requirements)
 * [Wireframe Sketches](#Wireframe-Sketches)
 * [Entity Relationship Diagram](#Entity-Relationship-Diagram)
-* [Status](#status)
 * [Testing](#Testing)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
+
+## Status
+Project is: _in progress
 
 ## Screenshots
 ![Example screenshot](https://github.com/)
@@ -51,9 +54,6 @@
 
 ## Entity Relationship Diagram
 ![ERD](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20ERD.JPG)
-
-## Status
-Project is: _in progress
 
 ## Testing
 This is a list of the tests that have been done, their status, and how/when they were last done. For more in depth breakdown of the current/previous builds, a test list can be found at:
