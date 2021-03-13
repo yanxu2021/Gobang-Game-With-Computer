@@ -7,7 +7,6 @@
 
 ## Table of contents
 * [Screenshots](#screenshots)
-* [Technologies](#technologies)
 * [Requirements](#Requirements)
 * [Wireframe Sketches](#Wireframe-Sketches)
 * [Entity Relationship Diagram](#Entity-Relationship-Diagram)
@@ -17,55 +16,35 @@
 * [Contact](#contact)
 
 ## Screenshots
-![Example screenshot](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/GobangGame%EF%BC%88English%EF%BC%89.JPG)
-
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+![Example screenshot](https://github.com/)
 
 ## Requirements
 [Requirements Specification](requirements_spec.md)
-* Use-Case Diagram (UML)
-<br>![UML](https://)</br>
 * Level 1 Play Gobang game with computer
 * Level 2 Record the result and get rank.
 * Level 3 Game share function via social media. 
-* Specific requirements as below:
-	* 0100 Users shall be able to connect via IP address. Level 1
-	* 0110 Users shall be able to start a game once two users are connected. Level 1
-	* 0120 Users shall be given the choice of who plays black and white. Level 1
-	* 0130 Each user is to have their pieces start at the bottom of the board on their display. Level 1
-	* 0140 The player playing white is first to move. Level 1
-	* 0150 A player may forfeit at any time during gameplay. Level 1
-	* 0160 A player must be given a confirm dialog before forfeiting. Level 2
-	* 0170 Forfeiting shall end the game immediately. Level 1
-	* 0180 The active player shall select a piece by clicking it. Level 1
-	* 0190 When a piece is selected, all legal moves for that piece are highlighted. Level 1
-	* 0200 When a piece is selected, the active player may select another piece by clicking it. Level 1
-	* 0210 A selected piece must always belong to the active player. Level 1
-	* 0220 The active player shall move the selected piece by clicking on any legal square. Level 1
-	* 0230 The active player shall capture a piece by moving onto a legal square containing an opposing piece. Level 1
-	* 0240 Captured pieces shall be displayed in a captured pieces box. Level 2
-	* 0250 The inactive player may request to undo the prior move. Level 2
-	* 0260 There shall be no more than one undo request per turn. Level 2
-	* 0270 An undo request shall be ratified by the active player. Level 1
-	* 0280 When an undo request is accepted the game is reverted to the state of the board prior to the request. 	Level 1
-	* 0290 A player shall be able to save a log of the moves at any time. Level 2
-
-[Requirements Specification](https://github.com/uid100/RateCalculator/blob/main/Requirements_Spec.md)
-
 
 |ReqID|Requirement|test method|TestID|
 |---|---|--|---|
-|1. |the system shall ...|inspection| |
-|2. |the system shall ...|test|1|
-|3. |the system shall ...|test|1|
-|3.1|the system shall ...|analysis| |
-|3.2|the system shall ...|inspection| |
-|4. |the system shall ...|test|3|
-|5. |the system shall ...|test|2|
-|6. |the system shall ...|test| |
+|0100| Users shall be able to connect via IP address. |inspection| |
+|0110 |Users shall be able to start a game once the user is ready. |test|1|
+|0120| Users shall be given the choice to play black and white. |test|1|
+|0130| The player(computer)playing black is first to move. |analysis| |
+|0140|The first move must start from the center of the board, which is in H8. |inspection| |
+|0150 |The player can forfeit at any time during gameplay. |test|1|
+|0160| The player must be given a confirm dialog before forfeiting. |test|1|
+|0170 | Forfeiting shall end the game immediately. |test| 1|
+|0200| The active player shall select a legal square by clicking it. |test| 1|
+|0210| A selected legal square will be replaced by user color piece. |test| 1|
+|0220| The active player can change legal square by clicking on the piece then move it by clicking on any other legal square. |test| 1|
+|0230| A selected square must always belong to the active player. |test| 1|
+|0240| The player shall see the previous move all the time. |test| 1|
+|0250| When game over, the system shows the message win or lose. |test| 1|
+|0260| The user can save the result and score in the system by creating a username and input email address. |test| 2|
+|0260| The user may share the game with URL by different social media option. |test| 3|
+
+* Use-Case Diagram (UML)
+<br>![UML](https://)</br>
 
 ## Wireframe Sketches
 ![Wireframe Sketches](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20Wire%20Frame%20Sketches%20.jpg)
