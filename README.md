@@ -59,7 +59,7 @@ Project is: _in progress
 Requirements Traceability/Criteria
 This is a list of the tests that have been done, theri status, and how/when they were last done. For more in depth breakdown of the current/previous builds, a test list can be found at:
 
-|testID|Req|TestProtocol|Status|time|
+|TestID|Req|TestProtocol|Status|TimeStamp|
 |---|---|---|---|---|
 |1.0|IP address set up. |Success |not tested|
 |1.1 |Start button test. |Success |not tested|
