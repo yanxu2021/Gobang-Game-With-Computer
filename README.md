@@ -12,6 +12,7 @@
 * [Wireframe Sketches](#Wireframe-Sketches)
 * [Entity Relationship Diagram](#Entity-Relationship-Diagram)
 * [Testing](#Testing)
+* [Prototype](#Prototype)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
@@ -86,6 +87,9 @@ This is a list of the tests that have been done, their status, and how/when they
 |2.6| The user can save the result and score in the system by creating a username and input email address. |Success |not tested|
 |2.7| The user may share the game with URL by different social media option. |Success |not tested|
 
+[Back to Table of Contents](https://github.com/yanxu2021/Gobang-Game-With-Computer/edit/main/README.md#table-of-contents)
+
+## [Prototype](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Prototype/README.md)
 [Back to Table of Contents](https://github.com/yanxu2021/Gobang-Game-With-Computer/edit/main/README.md#table-of-contents)
 
 ## Inspiration
