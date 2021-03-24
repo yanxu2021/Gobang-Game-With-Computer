@@ -12,5 +12,5 @@
 ![screenshot images](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Prototype/5.JPG)
 ![screenshot images](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Prototype/6.JPG)
 
-![Link to page](https://colorxyan.wixsite.com/gobanggame)
-![Link to HTML](https://colorxyan.wixsite.com/gobanggame)
+## Prototype "Gobang Game With Computer" View Page
+https://colorxyan.wixsite.com/gobanggame
