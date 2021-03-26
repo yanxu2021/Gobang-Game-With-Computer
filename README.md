@@ -18,13 +18,11 @@
 
 ## Status
 Project is: _in progress
-
-[Back to Table of Contents](https://github.com/yanxu2021/Gobang-Game-With-Computer/edit/main/README.md#table-of-contents)
+[🔝](#table-of-contents) </p> 
 
 ## Screenshots
 ![Example screenshot](https://github.com/)
-
-[Back to Table of Contents](https://github.com/yanxu2021/Gobang-Game-With-Computer/edit/main/README.md#table-of-contents)
+[🔝](#table-of-contents) </p> 
 
 ## Requirements
 [Requirements Specification](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Requirements%20Specification.md)
@@ -57,12 +55,12 @@ Project is: _in progress
 ## Wireframe Sketches
 ![Wireframe Sketches](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20Wire%20Frame%20Sketches%20.jpg)
 
-[Back to Table of Contents](https://github.com/yanxu2021/Gobang-Game-With-Computer/edit/main/README.md#table-of-contents)
+[🔝](#table-of-contents) </p> 
 
 ## Entity Relationship Diagram
 ![ERD](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Gobang%20Game%20ERD.JPG)
 
-[Back to Table of Contents](https://github.com/yanxu2021/Gobang-Game-With-Computer/edit/main/README.md#table-of-contents)
+[🔝](#table-of-contents) </p> 
 
 ## Testing
 This is a list of the tests that have been done, their status, and how/when they were last done. For more in depth breakdown of the current/previous builds, a test list can be found at:
@@ -87,18 +85,18 @@ This is a list of the tests that have been done, their status, and how/when they
 |2.6| The user can save the result and score in the system by creating a username and input email address. |Success |not tested|
 |2.7| The user may share the game with URL by different social media option. |Success |not tested|
 
-[Back to Table of Contents](https://github.com/yanxu2021/Gobang-Game-With-Computer/edit/main/README.md#table-of-contents)
+[🔝](#table-of-contents) </p> 
 
 ## [Prototype](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Prototype/README.md)
-[Back to Table of Contents](https://github.com/yanxu2021/Gobang-Game-With-Computer/edit/main/README.md#table-of-contents)
+[🔝](#table-of-contents) </p> 
 
 ## Inspiration
 Project inspired by https://trefoilkingdom.com/game/gobang, 
 ![Example screenshot](https://github.com/yanxu2021/Gobang-Game-With-Computer/blob/main/Game%20Inspired.JPG)
 
-[Back to Table of Contents](https://github.com/yanxu2021/Gobang-Game-With-Computer/edit/main/README.md#table-of-contents)
+[🔝](#table-of-contents) </p> 
 
 ## Contact
 Created by [@yanxu2021](https://www.linkedin.com/in/yanxu2021/) - feel free to contact me!
 
-[Back to Table of Contents](https://github.com/yanxu2021/Gobang-Game-With-Computer/edit/main/README.md#table-of-contents)
+[🔝](#table-of-contents) </p> 
