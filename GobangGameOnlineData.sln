@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "GobangGameOnlineData", "GobangGameOnline\GobangGameOnlineData.sqlproj", "{70B6A19B-B891-414C-86DE-B73D165CBF5D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GobangGameOnline", "..\GobangGameOnline\GobangGameOnline.vbproj", "{5878189B-CBDA-4FC5-8936-3719DE493D65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70B6A19B-B891-414C-86DE-B73D165CBF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B6A19B-B891-414C-86DE-B73D165CBF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B6A19B-B891-414C-86DE-B73D165CBF5D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{70B6A19B-B891-414C-86DE-B73D165CBF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B6A19B-B891-414C-86DE-B73D165CBF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70B6A19B-B891-414C-86DE-B73D165CBF5D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5878189B-CBDA-4FC5-8936-3719DE493D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5878189B-CBDA-4FC5-8936-3719DE493D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5878189B-CBDA-4FC5-8936-3719DE493D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5878189B-CBDA-4FC5-8936-3719DE493D65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CC2E996-9FB5-4158-A8E5-6413975EAD8F}
+	EndGlobalSection
+EndGlobal
